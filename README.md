@@ -50,7 +50,7 @@ Installation/Setup:
 
 > Import the provided SQL file in your newly created database. The SQL file is known as "elearning.sql" inside the "database" folder.
 
-> Browse the Simple eLearning System Project in a browser. i.e. http://localhost/elearning
+> Browse the Simple eLearning System Project in a browser. i.e. http://localhost/elearning_sys/home.php
 
 
 
